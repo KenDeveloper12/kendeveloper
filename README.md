@@ -23,9 +23,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 - :speech_balloon: Ask me about anything.</br>
 
-- :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-
-- :cloud: Pronouns: She/Her. </br>
+- :mailbox: How to reach me: <a href="mailto:aeroltzz@gmail.com">Email me!</a>  </br>
 
 - :game_die: Drawing and writing are part of me. </br>
  
@@ -38,7 +36,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 </a>
 
-<a href="https://www.instagram.com/yours/">
+<a href="https://www.instagram.com/@mhmdree12_/">
 
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 
